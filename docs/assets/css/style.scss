@@ -4,7 +4,8 @@
 @import "{{ site.theme }}";
 
 body {
-  background: $body-background url("/assets/images/vek-labs-e8ofKlNHdsg-unsplash-small.jpeg") cover no-repeat;
+  background: $body-background url("/assets/images/vek-labs-e8ofKlNHdsg-unsplash-small.jpeg") no-repeat fixed center;
+  background-size: cover;
   
   /* background: bg-color bg-image position/bg-size bg-repeat bg-origin bg-clip bg-attachment initial|inherit; */
   /* https://www.w3schools.com/cssref/css3_pr_background.asp */
