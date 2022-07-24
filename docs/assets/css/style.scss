@@ -2,3 +2,8 @@
 ---
 
 @import "{{ site.theme }}";
+
+body {
+  background: $body-background url("/assets/images/gebhartyler-AQpOwYbm_Jg-unsplash.jpeg") 0 0;
+}
+
