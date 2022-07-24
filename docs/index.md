@@ -1,4 +1,8 @@
-# SecurityGames-net repository
+---
+layout: default
+---
+
+## SecurityGames-net repository
 
 Coming soon...
 
