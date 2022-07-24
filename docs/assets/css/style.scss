@@ -4,9 +4,6 @@
 @import "{{ site.theme }}";
 
 body {
-  background: $body-background url("/assets/images/vek-labs-e8ofKlNHdsg-unsplash-small.jpeg") 0 0;
-  background-repeat: $body-background  no-repeat;
-  background-attachment: $body-background fixed;
-  background-position: $body-background center;
+  background: $body-background url("/assets/images/vek-labs-e8ofKlNHdsg-unsplash-small.jpeg") 0 0 no-repeat fixed center;
 }
 
