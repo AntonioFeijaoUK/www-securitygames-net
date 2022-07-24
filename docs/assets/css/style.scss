@@ -7,6 +7,7 @@ body {
   background: $body-background url("/assets/images/vek-labs-e8ofKlNHdsg-unsplash-small.jpeg") no-repeat fixed;
   /* background: $body-background no-repeat; */
   /* background: $body-background fixed;     */
-  background: cover;
+  background: $body-background center;
+  /* background: $body-background cover; */
 }
 
