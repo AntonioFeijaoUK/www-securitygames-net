@@ -8,9 +8,9 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 
-title: www.SecurityGames.Net. Cyber Security hands-one games. Hands-on exercises.
+title: www.SecurityGames.Net. Cyber Security hands-on games. Hands-on exercises.
 
-description: A place for cyber-security hands-one games! Practice and gain cyber security skill. Improve your command line and coding skills.
+description: A place for cyber-security practice on hands-on games. Practice and gain cyber security skills. Improve your command line and coding skills.
 
 show_downloads: false
 
