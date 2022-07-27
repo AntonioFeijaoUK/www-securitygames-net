@@ -1,6 +1,6 @@
 site_name: SecurityGames.net
 
-logo: assets/images/logo/security-games-net.jpg
+logo: /assets/images/logo/security-games-net.jpg
 
 theme:
   name: material
@@ -12,7 +12,8 @@ theme:
       next: 78     # n
       previous: 80 # p
       search: 83   # s
-  navigation_depth: 3
+  navigation_depth: 4
+  language: en
   palette: 
 
     # Palette toggle for light mode
