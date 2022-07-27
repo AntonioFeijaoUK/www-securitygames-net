@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## SecurityGames-net repository
+# securitygames-net
 
 Coming soon...
 
