@@ -4,7 +4,7 @@ Hello there
 
 We all know that `encoding` is not the same as `encrypting`, nor `hash` value... 
 
-```py
+``` py title="is_this_a_var.py"
 
 var=this_var
 
