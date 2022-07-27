@@ -53,7 +53,7 @@ extra:
     - icon: fontawesome/brands/instagram
       link: https://instagram.com/AntonioFeijaoUK
       
-copyright: Copyright &copy; 2022 Antonio Feijao UK
+copyright: Copyright &copy; 2022 <a href="https://www.antoniofeijao.com/">Antonio Feijao UK</a> 
 
 plugins:
   - git-revision-date-localized:
