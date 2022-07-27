@@ -3,9 +3,9 @@ site_name: SecurityGames.net
 theme:
   name: material
   logo: assets/images/logo/security-games-net.jpg
-  highlightjs: true
-  hljs_languages:
-      - yaml
+#  highlightjs: true
+#  hljs_languages:
+#      - yaml
   shortcuts:
       help: 72     # h ###help: 191    # ?
       next: 78     # n
