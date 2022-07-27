@@ -16,7 +16,9 @@ theme:
   palette: 
 
     # Palette toggle for light mode
-    - scheme: default
+    - media: "(prefers-color-scheme: light)"
+      name: "color-scheme-light"
+      scheme: default
       primary: blue
       accent: blue
       toggle:
@@ -24,7 +26,9 @@ theme:
         name: Switch to dark mode
 
     # Palette toggle for dark mode
-    - scheme: slate
+    - media: "(prefers-color-scheme: dark)"
+      name: "color-scheme-dark"
+      scheme: slate
       primary: blue
       accent: deep orange
       toggle:
@@ -61,8 +65,4 @@ plugins:
       type: date
       enable_creation_date: true
       fallback_to_build_date: true
-
-
-
-
 
