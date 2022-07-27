@@ -1,4 +1,4 @@
-# Website
+## Website
 
 Website template by [MkDocs](https://www.mkdocs.org/)
 
