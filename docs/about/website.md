@@ -1,5 +1,7 @@
-# Thank you MkDocs and squidfunk
+# Website
 
-This page uses `MkDocs` and the material template by [squidfunk](https://squidfunk.github.io/mkdocs-material/).
+Website template by [MkDocs](https://www.mkdocs.org/)
+
+with the `material` template [squidfunk](https://squidfunk.github.io/mkdocs-material/).
 
 Then I added personalisation of my own style.
