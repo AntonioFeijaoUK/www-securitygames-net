@@ -1,12 +1,14 @@
 site_name: SecurityGames.net
 
+logo: assets/images/logo/security-games-net.jpg
+
 theme:
   name: material
   highlightjs: true
   hljs_languages:
       - yaml
   shortcuts:
-      help: 191    # ?
+      help: 72    # h ###help: 191    # ?
       next: 78     # n
       previous: 80 # p
       search: 83   # s
