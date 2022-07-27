@@ -1,9 +1,8 @@
 site_name: SecurityGames.net
 
-logo: /assets/images/logo/security-games-net.jpg
-
 theme:
   name: material
+  logo: assets/images/logo/security-games-net.jpg
   highlightjs: true
   hljs_languages:
       - yaml
