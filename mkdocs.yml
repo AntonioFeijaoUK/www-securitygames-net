@@ -2,6 +2,17 @@ site_name: SecurityGames.net
 
 theme:
   name: material
+  highlightjs: true
+  hljs_languages:
+      - yaml
+  shortcuts:
+      help: 191    # ?
+      next: 78     # n
+      previous: 80 # p
+      search: 83   # s
+  navigation_depth: 3     
+  
+
 
 
 extra_css:
@@ -10,4 +21,8 @@ extra_css:
 extra_javascript:
   - assets/js/extra.js
 
+
+# source
+
+locale: en
 
