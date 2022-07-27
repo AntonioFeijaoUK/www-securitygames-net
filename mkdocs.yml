@@ -2,3 +2,12 @@ site_name: SecurityGames.net
 
 theme:
   name: material
+
+
+extra_css:
+  - assets/css/extra.css
+
+extra_javascript:
+  - assets/js/extra.js
+
+
