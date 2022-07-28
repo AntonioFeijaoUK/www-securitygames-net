@@ -1,5 +1,1 @@
-# securitygames-net
-
-Coming soon...
-
-
+/* nothing here */
