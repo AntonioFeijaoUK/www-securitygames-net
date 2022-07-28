@@ -3,7 +3,7 @@
 body {
   /* background: $body-background; */ /* same as background color */
 
-  background-image: url("/assets/images/background/scott-webb-hDyO6rr3kqk-unsplash-medium.jpeg");
+  /* background-image: url("/assets/images/background/scott-webb-hDyO6rr3kqk-unsplash-medium.jpeg"); */
   
   /* Center and scale the image nicely */
   background-position: center;
@@ -15,4 +15,15 @@ body {
   /* https://www.w3schools.com/cssref/css3_pr_background.asp */
   
 }
-Footer
+
+
+
+:root > * {
+  --md-primary-fg-color:        #EE0F0F;
+  --md-primary-fg-color--light: #ECB7B7;
+  --md-primary-fg-color--dark:  #90030C;
+}
+
+[data-md-color-scheme="slate"] {
+  --md-hue: 210; 
+}
