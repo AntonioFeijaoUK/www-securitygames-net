@@ -33,6 +33,29 @@ Otherwise you might be spending most time walking around.
 workshops and the `you can do it later` concept... doesn't work for most. You are here (there), do it now, focus now, learn now. You have the experts avaiable to you.
 
 
+---
+
+## on demand
+
+<https://youtu.be/PPunA7tPMyk> - `AWS re:Inforce 2022 - Keynote`
+
+
+----
+## free mfa
+
+!!! note
+
+    requirements, min $100 least 3 months, and currently for US only... for now, so keep an eye on this program.
+
+<https://console.aws.amazon.com/securityhub/home/#/free-mfa-security-key>
+
+<https://aws.amazon.com/blogs/security/amazon-security-awareness-training-and-aws-multi-factor-authentication-tokens-to-be-made-available-at-no-cost/>
+
+<https://aws.amazon.com/blogs/security/eligible-customers-can-now-order-a-free-mfa-security-key/>
+
+
+
+
 ----
 
 ## food
