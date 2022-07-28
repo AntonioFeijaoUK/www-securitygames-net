@@ -5,9 +5,9 @@ theme:
   logo: assets/images/logo/security-games-net.jpg
   features:
     - content.code.annotate 
-#  highlightjs: true
-#  hljs_languages:
-#      - yaml
+  highlightjs: true
+  hljs_languages:
+      - yaml
   shortcuts:
       help: 72     # h ###help: 191    # ?
       next: 78     # n
@@ -37,13 +37,11 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
 
-#extra_css:
-#  - assets/css/extra.css
+extra_css:
+  - assets/css/extra.css
 
 #extra_javascript:
 #  - assets/js/extra.js
-
-# source
 
 locale: en
 
