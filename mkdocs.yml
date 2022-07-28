@@ -54,9 +54,8 @@ theme:
     text: Roboto
     code: Roboto Mono
 
-
 extra_css:
-    - /assets/css/extra.css
+  - assets/css/extra.css
 
 #extra_javascript:
 #   - assets/js/extra.js
@@ -75,7 +74,6 @@ extra:
     - icon: fontawesome/brands/instagram
       link: https://instagram.com/AntonioFeijaoUK
       
-
 plugins:
   - git-revision-date-localized:
       enable_creation_date: iso_datetime
