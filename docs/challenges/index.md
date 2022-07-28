@@ -1,0 +1,23 @@
+# challenges
+
+<style>
+body {
+  /* background: $body-background; */ /* same as background color */
+
+  background-image: url("/assets/images/background/silas-baisch-K785Da4A_JA-unsplash-medium.jpeg");
+  
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: auto;
+
+  background-color: rgba(255, 255, 255, 0.4);
+  -webkit-backdrop-filter: blur(5px);;
+  backdrop-filter: blur(8px);
+  
+  /* background: bg-color bg-image position/bg-size bg-repeat bg-origin bg-clip bg-attachment initial|inherit; */
+  /* https://www.w3schools.com/cssref/css3_pr_background.asp */
+  
+}
+</style>
