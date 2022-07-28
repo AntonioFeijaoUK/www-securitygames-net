@@ -56,7 +56,7 @@ theme:
 
 
 extra_css:
-    - assets/css/extra.css
+    - /assets/css/extra.css
 
 #extra_javascript:
 #   - assets/js/extra.js
