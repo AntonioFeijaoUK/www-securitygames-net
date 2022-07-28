@@ -9,8 +9,7 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-size: cover;
-  color: #123abc;
+  background-size: auto;
 
   background-color: rgba(255, 255, 255, 0.4);
   -webkit-backdrop-filter: blur(5px);;
