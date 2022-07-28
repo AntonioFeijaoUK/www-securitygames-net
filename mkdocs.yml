@@ -50,12 +50,12 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
-  font:
-    text: Roboto
-    code: Roboto Mono
+#  font:
+#    text: Roboto
+#    code: Roboto Mono
 
-extra_css:
-  - assets/css/extra.css
+#extra_css:
+#  - assets/css/extra.css
 
 #extra_javascript:
 #   - assets/js/extra.js
