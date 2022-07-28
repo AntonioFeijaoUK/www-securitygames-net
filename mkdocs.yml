@@ -1,5 +1,12 @@
+# Project information
 site_name: SecurityGames.net
+site_url: https://www.securitygames.net/
+site_author: Antonio Feijao UK
+site_description: >-
+  hands-on on cyber security skills
+  learning by doing, linux, networking, containers, aws, cloud, pentesting, and more...
 
+# Copyright
 copyright: Copyright &copy; 2022 <a href="https://www.antoniofeijao.com/">Antonio Feijao UK</a> 
 
 theme:
@@ -25,7 +32,6 @@ theme:
   navigation_depth: 4
   language: en
   palette: 
-
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       name: "color-scheme-light"
@@ -35,7 +41,6 @@ theme:
       toggle:
         icon: material/brightness-7 
         name: Switch to dark mode
-
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       name: "color-scheme-dark"
@@ -45,6 +50,10 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+  font:
+    text: Roboto
+    code: Roboto Mono
+
 
 #extra_css:
 #   - assets/css/extra.css
@@ -74,6 +83,7 @@ plugins:
       enable_creation_date: true
       fallback_to_build_date: true
 
+# Extensions
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
