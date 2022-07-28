@@ -28,7 +28,7 @@ Study the floor plan and carefully plan and prioritise your sessions, this is cr
 
 Otherwise you might be spending most time walking around.
 
-![antonio-feijao-aws-reinforce-2022](assets/images/antonio-feijao-aws-reinforce-2022.png)
+![antonio-feijao-aws-reinforce-2022](/assets/images/antonio-feijao-aws-reinforce-2022.png)
 
 ----
 
