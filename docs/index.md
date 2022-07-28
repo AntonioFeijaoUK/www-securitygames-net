@@ -3,7 +3,7 @@
 <style>
 
 .hero-image {
-    background-image: url("/assets/images/background/silas-baisch-K785Da4A_JA-unsplash-medium.jpeg");
+    background-image: url("/assets/images/background/philipp-katzenberger-iIJrUoeRoCQ-unsplash-small.jpeg");
     background-color: #cccccc;
     height: 500px;
     background-position: center;
