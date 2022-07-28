@@ -32,6 +32,18 @@ Otherwise you might be spending most time walking around.
 
 ----
 
+## food
+
+hot food
+
+grab-and-go
+
+loads-of-tables
+
+opportunity to network, meet other people
+
+----
+
 ## challenges
 
 <https://jam.awsevents.com/> - `CTF`
