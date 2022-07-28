@@ -1,14 +1,10 @@
----
-layout: default
----
-
 # securitygames-net
 
 Coming soon...
 
 ----
 
-## While you are here
+## while you are here
 
 IT and Cyber Security educational website and security best practices
 
@@ -20,7 +16,9 @@ Hands on practice.
 
 ---
 
-GAME01 (coming soon)
+# game01
+
+TBD
 
 **Instructions**: - ....
 
@@ -34,7 +32,7 @@ GAME01 (coming soon)
 
 ---
 
-## Hacker definition
+## hacker definition
 
 `Security_hacker`
 <https://en.wikipedia.org/wiki/Security_hacker>
@@ -54,7 +52,7 @@ Reflecting the two types of hackers, there are two definitions of the word "hack
 
 ---
 
-## Interesting reading on IT and Cyber security
+## interesting reading on IT and cyber security
 
 <https://gist.github.com/atcuno/3425484ac5cce5298932>
 
@@ -62,7 +60,7 @@ Reflecting the two types of hackers, there are two definitions of the word "hack
 
 ---
 
-## Interesting links
+## interesting links
 
 <https://cryptochallenge.io/>
 
@@ -78,6 +76,14 @@ do you have another suggestion? keep in touch, contact below.
 
 ---
 
-### This page is in work in progress
+### this page is in work in progress
 
-Feedback is welcomed! Contact <https://antoniofeijao.com/>
+!!! success
+
+    Feedback is welcomed!
+    
+    other icons - <https://squidfunk.github.io/mkdocs-material/reference/admonitions/#admonition-icons>
+
+???+ note
+
+    Contact [Antonio Feijao](https://antoniofeijao.com/)
