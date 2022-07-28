@@ -4,7 +4,11 @@ theme:
   name: material
   logo: assets/images/logo/security-games-net.jpg
   features:
-    - content.code.annotate 
+    - content.code.annotate
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - toc.follow
   highlightjs: true
   hljs_languages:
       - yaml
