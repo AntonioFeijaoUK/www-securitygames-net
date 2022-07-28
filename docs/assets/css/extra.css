@@ -14,10 +14,17 @@ body {
 
   background-color: rgba(255, 255, 255, 0.4);
   -webkit-backdrop-filter: blur(5px);;
-  backdrop-filter: blur(5px);
+  backdrop-filter: blur(8px);
   
   /* background: bg-color bg-image position/bg-size bg-repeat bg-origin bg-clip bg-attachment initial|inherit; */
   /* https://www.w3schools.com/cssref/css3_pr_background.asp */
   
 }
 
+/* https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/?h=color */
+
+:root > * {
+  --md-primary-fg-color:        #222D3A;
+  --md-primary-fg-color--light: ##006DEB;
+  --md-primary-fg-color--dark:  ##006DEB;
+}
