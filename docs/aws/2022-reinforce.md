@@ -1,5 +1,3 @@
-# conference
-
 ## general
 
 flights - book as soon as you confirm you are going.
