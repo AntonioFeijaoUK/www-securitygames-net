@@ -25,7 +25,7 @@
 
 <div class="hero-image">
     <div class="hero-text">
-        <h1 style="font-size:50px">Security Games .Net</h1>
+        <h1 style="font-size:50px; color:white">Security Games .Net</h1>
         <h3>hands on on cyber security skills</h3>
     </div>
 </div>
