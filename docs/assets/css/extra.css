@@ -10,14 +10,10 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
-  /*background-color: #cccccc; */
+  background-color: #122ca0;
 
   /* background: bg-color bg-image position/bg-size bg-repeat bg-origin bg-clip bg-attachment initial|inherit; */
   /* https://www.w3schools.com/cssref/css3_pr_background.asp */
   
 }
 
-
-[data-md-color-scheme="slate"] {
-  --md-hue: 150; 
-}
