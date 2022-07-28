@@ -60,7 +60,6 @@ theme:
 #extra_javascript:
 #   - assets/js/extra.js
 
-locale: en
 
 extra:
   generator: false
