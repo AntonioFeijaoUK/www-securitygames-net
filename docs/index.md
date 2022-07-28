@@ -4,12 +4,15 @@
 
 .hero-image {
     background-image: url("/assets/images/background/philipp-katzenberger-iIJrUoeRoCQ-unsplash-small.jpeg");
-    background-color: #cccccc;
+    /* background-color: #cccccc; */
     height: 500px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
+    background-color: rgba(255, 255, 255, 0.4);
+    -webkit-backdrop-filter: blur(5px);
+    backdrop-filter: blur(8px);
 }
 
 .hero-text {
