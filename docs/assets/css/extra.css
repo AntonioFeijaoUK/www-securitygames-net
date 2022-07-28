@@ -24,11 +24,11 @@ body {
 /* https://github.com/squidfunk/mkdocs-material/blob/master/src/assets/stylesheets/main/_colors.scss */
 
 :root > * {
-  --md-primary-fg-color:        #FFFFFF;
-  --md-primary-fg-color--light: #FFFFFF;
-  --md-primary-fg-color--dark:  #FFFFFF;
+  --md-primary-fg-color:        #222D3A;
+  --md-primary-fg-color--light: #222D3A;
+  --md-primary-fg-color--dark:  #222D3A;
   --md-primary-bg-color:        #222D3A;
-  --md-primary-bg-color--light: #FFFFFF;
+  --md-primary-bg-color--light: #222D3A;
 }
 
 /* https://www.w3schools.com/colors/colors_complementary.asp */
