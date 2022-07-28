@@ -30,6 +30,9 @@ Otherwise you might be spending most time walking around.
 
 ![antonio-feijao-aws-reinforce-2022](/assets/images/antonio-feijao-aws-reinforce-2022.png)
 
+workshops and the `you can do it later` concept... doesn't work for most. You are here (there), do it now, focus now, learn now. You have the experts avaiable to you.
+
+
 ----
 
 ## food
