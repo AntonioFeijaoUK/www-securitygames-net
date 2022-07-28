@@ -40,6 +40,8 @@ workshops and the `you can do it later` concept... doesn't work for most. You ar
 <https://youtu.be/PPunA7tPMyk> - `AWS re:Inforce 2022 - Keynote`
 
 
+<https://www.youtube.com/results?search_query=%22AWS+re%3AInforce+2022%22> - `"AWS re:Inforce 2022"`
+
 ----
 ## free mfa
 
