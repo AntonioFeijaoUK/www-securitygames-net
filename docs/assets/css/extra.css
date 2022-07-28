@@ -3,7 +3,7 @@
 body {
   /* background: $body-background; */ /* same as background color */
 
-  background-image: url("/assets/images/background/scott-webb-hDyO6rr3kqk-unsplash-medium.jpeg");
+  background-image: url("/assets/images/background/silas-baisch-K785Da4A_JA-unsplash-medium.jpeg");
   
   /* Center and scale the image nicely */
   background-position: center;
@@ -25,6 +25,6 @@ body {
 
 :root > * {
   --md-primary-fg-color:        #222D3A;
-  --md-primary-fg-color--light: ##006DEB;
-  --md-primary-fg-color--dark:  ##006DEB;
+  --md-primary-fg-color--light: #F0F0F0;
+  --md-primary-fg-color--dark:  #011123;
 }
