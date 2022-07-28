@@ -1,4 +1,9 @@
-/* nothing here.... yet */
+:root > * {
+  --md-primary-fg-color:        #00113E;
+  --md-primary-fg-color--light: #ECB7B7;
+  --md-primary-fg-color--dark:  #90030C;
+}
+
 
 
 /* https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/?h=color */\
@@ -7,13 +12,3 @@
 /* https://www.w3schools.com/colors/colors_complementary.asp */
 
 
-:root > * {
-  --md-primary-fg-color:        #00113E;
-  --md-primary-fg-color--light: #ECB7B7;
-  --md-primary-fg-color--dark:  #90030C;
-}
-
-
-[data-md-color-primary="blue"] {
-  --md-primary-fg-color #00113D;
-}
