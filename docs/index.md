@@ -1,4 +1,3 @@
-/* nothing so see here */
 
 <style>
 body {
