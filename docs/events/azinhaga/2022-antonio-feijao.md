@@ -13,7 +13,7 @@ info
 
 details
 
-!!!! success
+!!! success
 
     you too can do it!
 
