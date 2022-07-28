@@ -26,8 +26,8 @@ body {
 
 :root > * {
   --md-primary-fg-color:        #222D3A;
-  --md-primary-fg-color--light: #F0F0F0;
-  --md-primary-fg-color--dark:  #011123;
+  --md-primary-fg-color--light: #FFFFFF;
+  --md-primary-fg-color--dark:  #FFFFFF;
 }
 
 /* https://www.w3schools.com/colors/colors_complementary.asp */
