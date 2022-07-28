@@ -9,6 +9,9 @@ theme:
     - navigation.sections
     - navigation.indexes
     - toc.follow
+    - admonition
+    - pymdownx.details
+    - pymdownx.superfences
   highlightjs: true
   hljs_languages:
       - yaml
